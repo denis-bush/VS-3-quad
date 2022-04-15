@@ -1,0 +1,39 @@
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe.config
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.pdb
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.csprojResolveAssemblyReference.cache
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.Properties.Resources.resources
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.csproj.GenerateResource.Cache
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.exe
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.pdb
+E:\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.QuadCalc.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe.config
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\bin\Debug\QuadEqual.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.QuadCalc.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\QuadEqual\QuadEqual\obj\Debug\QuadEqual.csproj.GenerateResource.Cache
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe.config
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.exe
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.pdb
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.pdb
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.csprojResolveAssemblyReference.cache
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.QuadCalc.resources
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.Properties.Resources.resources
+E:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe.config
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.exe
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.pdb
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.pdb
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.QuadCalc.resources
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.Properties.Resources.resources
+C:\Users\USER\Documents\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.csproj.GenerateResource.Cache
+F:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\bin\Debug\QuadEqual.exe.config
+F:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.exe
+F:\Учёба\Языки программирования\Projects\3 QuadEqual\QuadEqual\obj\Debug\QuadEqual.pdb
